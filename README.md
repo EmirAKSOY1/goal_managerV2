@@ -1,4 +1,4 @@
-Proje Anlatımı:https://youtu.be/8ZE_BWqwDG0?si=h82m60xkHGQEN2DC
+Proje Anlatımı:https://youtu.be/8ZE_BWqwDG0?si=h82m60xkHGQEN2DC .
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
